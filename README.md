@@ -1324,7 +1324,7 @@
                     Interested in working together?
                 </p>
                 <div class="cta-buttons">
-                    <a href="https://www.linkedin.com/in/amandanguyen" class="btn btn-primary">Connect on LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/amanda-nguyen-192598125" class="btn btn-primary">Connect on LinkedIn</a>
                     <a href="https://madebyamanda.xyz" class="btn btn-secondary">View Portfolio</a>
                 </div>
             </div>
