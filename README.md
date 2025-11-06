@@ -1049,14 +1049,6 @@
                     <h2 class="section-title">Design Philosophy Across Games: Jingliu vs. Skirk</h2>
                 </div>
                 
-                <!-- Info box about images -->
-                <div style="background: rgba(16, 185, 129, 0.1); border: 1px solid var(--success); border-radius: 10px; padding: 1.5rem; margin-bottom: 2rem;">
-                    <p style="color: var(--text-light); margin-bottom: 0.5rem;"><strong>All Animations Ready!</strong></p>
-                    <p style="color: var(--text-gray); font-size: 0.95rem; line-height: 1.6;">
-                        All character animations (Jingliu & Skirk) are now local files and will display perfectly!
-                    </p>
-                </div>
-                
                 <p style="color: var(--text-gray); font-size: 1.05rem; line-height: 1.8; margin-bottom: 2rem;">
                     While Honkai: Star Rail and Genshin Impact differ in combat systems—turn-based versus real-time action—HoYoverse maintains consistent design principles across both titles. Examining Jingliu (Star Rail) and Skirk (Genshin Impact) reveals how the studio adapts its visual language and character fantasy while respecting each game's unique mechanics.
                 </p>
